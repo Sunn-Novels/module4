@@ -1,6 +1,6 @@
 body {
   background-color: silver;
-  background-image: url("images/poeraven.jpg");
+  background-image: url("../images/poeraven.jpg");
   background-repeat: repeat;
 max-width: 60em;
 margin: 0 auto 0 auto;
