@@ -1,7 +1,7 @@
 body {
   background: url("../images/poeraven.jpg") no-repeat right bottom;
 max-width: 60em;
-margin: 0 auto 0 auto;
+margin: 50 width 100 height;
 }
 
 table, th, td {
