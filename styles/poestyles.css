@@ -1,5 +1,5 @@
 body {
-  background: silver url("../images/poeraven.jpg") no-repeat right bottom;
+  background: silver url("../images/poeraven.jpg") no-repeat right bottom; /*  I like how the image I added here added to all of the links in the webpage  */
 max-width: 60em;
 margin: 0 auto 0 auto;
 }
@@ -10,4 +10,4 @@ border: 1px solid #000;
 padding: 1em;
 }
 
-/*  I like how the image I added here added to all of the links in the webpage  */
+/*  The comment feature was really helpful for this assgignment  */
