@@ -1,16 +1,5 @@
 body {
   background: url("../images/poeraven.jpg") no-repeat right bottom;
-  h1 {
-  background-color: green;
-}
-
-div {
-  background-color: lightblue;
-}
-
-p {
-  background-color: yellow;
-}
 max-width: 60em;
 margin: 0 auto 0 auto;
 }
